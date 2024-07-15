@@ -1,7 +1,8 @@
 # 👋 Hi, I’m @0Mustafa37
 
+- 💼 I’m working in **Python, Django for web development.**
 - 👀 I’m interested in **Machine Learning, Computer Vision, Deep Learning, Neural Networks, and Backend Development.**
-- 🌱 I’m currently learning **YOLO v8 for object detection, Flask for backend services, and Flutter for mobile applications.**
+- 🌱 I’m currently learning **Computer Vision.**
 - 💞️ I’m looking to collaborate on **AI/ML projects, backend development, and real-time communication systems.**
 - 📫 How to reach me: **[Email](mailto:mabdelaal474@gmail.com) | [LinkedIn](https://www.linkedin.com/in/0xmustafa37)**
 - 😄 Pronouns: **He/Him**
